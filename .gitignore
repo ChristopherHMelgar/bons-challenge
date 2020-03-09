@@ -1,0 +1,8 @@
+.idea
+node_modules/
+npm-debug.log
+scripts/
+env/dev.js
+.vscode/
+.eslintrc.js
+config/dev.js
